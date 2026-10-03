@@ -1,0 +1,14 @@
+# Local Netlify folder
+.netlify
+
+# Node/npm
+node_modules/
+dist/
+.vite/
+
+# Environment
+.env
+
+# Logs
+npm-debug.log
+.DS_Store

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768" role="img" aria-labelledby="title desc">
+  <title id="title">ΙΧΘΥΣ</title>
+  <desc id="desc">شعار السمكة المسيحية باللون الذهبي</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff09a"/>
+      <stop offset="0.28" stop-color="#d89a12"/>
+      <stop offset="0.55" stop-color="#fff1a1"/>
+      <stop offset="0.8" stop-color="#a76700"/>
+      <stop offset="1" stop-color="#f5c83b"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#5b3500" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect width="768" height="768" fill="#fff"/>
+  <g filter="url(#shadow)" fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 384C198 244 392 227 574 334L646 276L622 384L646 492L574 434C392 541 198 524 92 384Z" stroke-width="22"/>
+    <path d="M113 384C222 272 391 263 548 350L584 384L548 418C391 505 222 496 113 384Z" fill="#e9e5dc" stroke-width="8"/>
+    <path d="M574 334L646 276L622 384L646 492L574 434" stroke-width="20"/>
+  </g>
+  <text x="365" y="423" text-anchor="middle" font-family="Georgia, serif" font-size="105" font-weight="700" letter-spacing="10" fill="#6f4300" stroke="#d39a20" stroke-width="4">ΙΧΘΥΣ</text>
+</svg>
